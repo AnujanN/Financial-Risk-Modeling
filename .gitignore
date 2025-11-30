@@ -3,3 +3,5 @@ CreditSource AI Internship Assessment.pdf
 loan_dataset.xlsx
 loan_dataset.pdf
 .~lock.loan_dataset.xlsx#
+loan_approval_pipeline.pkl
+risk_score_pipeline.pkl
