@@ -5,3 +5,5 @@ loan_dataset.pdf
 .~lock.loan_dataset.xlsx#
 loan_approval_pipeline.pkl
 risk_score_pipeline.pkl
+advanced_loan_model.pkl
+catboost_info
