@@ -9,3 +9,6 @@ advanced_loan_model.pkl
 catboost_info
 loan_approval_model_final.pkl
 risk_score_model_final.pkl
+CreditSource_Report.pdf
+generate_pdf_report.py
+loan_analysis.ipynb
